@@ -27,7 +27,7 @@ It is ideal for preparing codebases to share with AI assistants (like ChatGPT or
 
 1. Clone or download this repository to your local machine:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/jhatzimalis/bundler.git](https://github.com/jhatzimalis/bundler.git)
    cd your-repo-name
     ```
 
