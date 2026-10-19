@@ -1,4 +1,3 @@
-```markdown
 # 📂 Project Bundler
 
 A lightweight, handy Python utility script that scans any project directory, generates a clean ASCII tree structure, and compiles the contents of all your source code and text files into a single consolidated text file (`project_bundle.txt`). 
